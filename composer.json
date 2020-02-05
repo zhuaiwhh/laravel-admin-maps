@@ -1,8 +1,8 @@
 {
-    "name": "laravel-admin-ext/maps-latlong",
-    "description": "Latitude & Longitude selector",
+    "name": "laravel-admin-maps/maps-latlong",
+    "description": "Latitude & Longitude selector maps",
     "type": "library",
-    "keywords": ["laravel-admin", "extension"],
+    "keywords": ["laravel-admin", "extension","maps"],
     "homepage": "https://github.com/zhuaiwhh/laravel-admin-maps",
     "license": "MIT",
     "authors": [

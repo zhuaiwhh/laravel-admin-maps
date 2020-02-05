@@ -1,1 +1,2 @@
 # laravel-admin-maps
+master

@@ -5,6 +5,7 @@
     "keywords": ["laravel-admin", "extension","maps"],
     "homepage": "https://github.com/zhuaiwhh/laravel-admin-maps",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "zhuai-whh",
